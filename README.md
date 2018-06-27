@@ -5,3 +5,4 @@
 - Win
 - Mac
 - Cli
+- DevOps
