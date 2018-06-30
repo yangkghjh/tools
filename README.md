@@ -6,3 +6,4 @@
 - Mac
 - Cli
 - DevOps
+- SelfHosted
