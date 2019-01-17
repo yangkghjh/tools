@@ -22,4 +22,5 @@ rm -rf fd_7.1.0_amd64.deb
 
 apt install -y ncdu
 
-npm install -g tldr
+go get -u github.com/isacikgoz/tldr
+tldr -u
