@@ -24,3 +24,5 @@ apt install -y ncdu
 
 go get -u github.com/isacikgoz/tldr
 tldr -u
+
+npm i -g fx
